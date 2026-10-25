@@ -6,16 +6,16 @@
 <!-- Typing headline -->
 <p align="center">
   <a href="https://jassernoomani.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&weight=700&size=28&duration=2800&pause=900&color=3FD8FF&center=true&vCenter=true&width=640&lines=Full-stack+%C2%B7+Mobile+%C2%B7+Applied+AI;Java+%2F+Spring+Boot+%C2%B7+Angular+%C2%B7+Flutter;Local+LLMs+that+fail+safely;Open+to+a+PFE+internship+in+2027" alt="Full-stack · Mobile · Applied AI — open to a PFE internship in 2027" />
+    <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&weight=700&size=26&duration=2800&pause=900&color=3FD8FF&center=true&vCenter=true&width=900&lines=Full-stack+%C2%B7+Mobile+%C2%B7+Applied+AI;Java+%2F+Spring+Boot+%C2%B7+Angular+%C2%B7+Flutter;Local+LLMs+that+fail+safely;Open+to+a+PFE+internship+in+2027" alt="Full-stack · Mobile · Applied AI — open to a PFE internship in 2027" />
   </a>
 </p>
 
 <!-- Social badges -->
 <p align="center">
   <a href="https://jassernoomani.github.io"><img src="https://img.shields.io/badge/Portfolio-1452ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jasser-noomani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jasser-noomani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
   <a href="mailto:Jasser.NOOMANI@esprit.tn"><img src="https://img.shields.io/badge/Email-3fd8ff?style=for-the-badge&logo=maildotru&logoColor=020b2e" alt="Email" /></a>
-  <a href="https://jassernoomani.github.io/Jasser_Noomani_CV_Fr.pdf"><img src="https://img.shields.io/badge/CV-PDF-020b2e?style=for-the-badge&logo=readthedocs&logoColor=3fd8ff&labelColor=0a2690" alt="Download CV" /></a>
+  <a href="https://jassernoomani.github.io/Jasser_Noomani_CV_Fr.pdf"><img src="https://img.shields.io/badge/Download_CV-0a2690?style=for-the-badge&logo=readthedocs&logoColor=3fd8ff" alt="Download CV" /></a>
   <img src="https://komarev.com/ghpvc/?username=jassernoomani&style=for-the-badge&color=1452ff&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -24,15 +24,15 @@
 ## 👋 About me
 
 ```yaml
-name:      Jasser Noomani
-role:      Software engineering student — ESPRIT, Tunis (2024 → present)
-focus:     [Full-stack, Mobile, Applied AI]
-looking_for: 4–6 month PFE internship, starting early 2027
+name: Jasser Noomani
+school: ESPRIT, Tunis — engineering cycle (2024 → now)
+focus: [Full-stack, Mobile, Applied AI]
+looking_for: PFE internship, 4–6 months, early 2027
 right_now:
-  - Flutter apps that keep working offline
-  - LLM features with guardrails and graceful fallbacks
-i_care_about: [clean architecture, honest benchmarks, tests that prove it works]
-languages: { Arabic: native, French: B2, English: B2 }
+  - Flutter apps that work offline
+  - LLM features that fail safely
+values: [clean architecture, honest benchmarks, real tests]
+languages: [Arabic (native), French (B2), English (B2)]
 ```
 
 ---
@@ -70,17 +70,17 @@ languages: { Arabic: native, French: B2, English: B2 }
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jassernoomani.github.io/#work"><img src="assets/card-ebiessa.png" width="100%" alt="e-Biessa" /></a>
+      <a href="https://github.com/jassernoomani/e-biessa"><img src="assets/card-ebiessa.png" width="100%" alt="e-Biessa" /></a>
       <br /><b>e-Biessa — AI car-parts marketplace</b><br />Spring Boot · Angular · FastAPI · Qdrant · local Qwen 2.5 (QLoRA), with circuit breakers so browsing keeps working when the AI is down.
     </td>
     <td width="50%" valign="top">
-      <a href="https://jassernoomani.github.io/#work"><img src="assets/card-nova-paris.png" width="100%" alt="Nova Paris" /></a>
+      <a href="https://github.com/develepoment-moblie/devmobile"><img src="assets/card-nova-paris.png" width="100%" alt="Nova Paris" /></a>
       <br /><b>Nova Paris — hotel housekeeping app</b><br />Flutter · Dart · SQLite with 7 versioned migrations, event-based modules and a 43-step end-to-end test on a real Android phone.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://jassernoomani.github.io/#work"><img src="assets/card-nirvana.png" width="100%" alt="Nirvana" /></a>
+      <a href="https://github.com/jassernoomani/Nirvana"><img src="assets/card-nirvana.png" width="100%" alt="Nirvana" /></a>
       <br /><b>Nirvana — restaurant platform with local AI</b><br />Angular · FastAPI · Ollama · scikit-learn. Allergy-aware recommendations with a rule-based fallback, plus demand forecasting.
     </td>
     <td width="50%" valign="top">
@@ -97,14 +97,11 @@ languages: { Arabic: native, French: B2, English: B2 }
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jassernoomani&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=020b2e&title_color=3fd8ff&text_color=f2f9ff&icon_color=3fd8ff&ring_color=1452ff&border_color=1452ff&border_radius=6" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassernoomani&layout=compact&langs_count=8&bg_color=020b2e&title_color=3fd8ff&text_color=f2f9ff&border_color=1452ff&border_radius=6" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jassernoomani&show_icons=true&rank_icon=github&bg_color=020b2e&title_color=3fd8ff&text_color=f2f9ff&icon_color=3fd8ff&ring_color=1452ff&border_color=1452ff&border_radius=6" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jassernoomani&layout=compact&langs_count=6&hide=powershell,shell,dockerfile&bg_color=020b2e&title_color=3fd8ff&text_color=f2f9ff&border_color=1452ff&border_radius=6" alt="Most used languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jassernoomani&background=020b2e&border=1452ff&stroke=1452ff&ring=3fd8ff&fire=3fd8ff&currStreakNum=f2f9ff&currStreakLabel=3fd8ff&sideNums=f2f9ff&sideLabels=9fbdf0&dates=9fbdf0&border_radius=6" alt="Contribution streak" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jassernoomani&bg_color=020b2e&color=9fbdf0&title_color=3fd8ff&line=3fd8ff&point=f2f9ff&area=true&area_color=1452ff&hide_border=false&border_color=1452ff&radius=6" alt="Contribution activity graph" />
 </p>
 
 <!-- Snake eating the contribution grid (generated by .github/workflows/snake.yml) -->
